@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<topic id="t_reset_device" xmlns:db="http://docbook.org/ns/docbook">
+<title>Reset Device</title>
+<para>If your device is unresponsive, perform a factory reset.</para>
+<section>
+<title>Factory Reset Steps</title>
+<para>Hold the power button for 10 seconds, then select Reset.</para>
+</section>
+</topic>
