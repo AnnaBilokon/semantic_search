@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<topic id="t_restore_defaults">
+  <title>Restore Factory Defaults</title>
+  <info>
+    <product>AcmeX</product>
+    <version>v3.2</version>
+    <language>en</language>
+  </info>
+
+  <section>
+    <title>Restore Settings</title>
+    <para
+    >Hold the power button for ten seconds until the indicator blinks twice to restore factory defaults.</para>
+    <para
+    >This will erase all user preferences and return the AcmeX to its original configuration.</para>
+  </section>
+
+  <section>
+    <title>Soft Restart</title>
+    <para
+    >Press and hold the power and volume-down buttons for five seconds to restart the system.</para>
+  </section>
+</topic>

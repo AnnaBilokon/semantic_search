@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<topic id="t_install_app">
+  <title>Install Application</title>
+  <info>
+    <product>AcmeX</product>
+    <version>v3.2</version>
+    <language>en</language>
+  </info>
+
+  <section>
+    <title>Download App</title>
+    <para
+    >To install the AcmeX companion app, visit the App Store or Google Play and search for "AcmeX Control".</para>
+  </section>
+
+  <section>
+    <title>Setup Account</title>
+    <para
+    >After installation, open the app and create an account to link your device.</para>
+  </section>
+</topic>

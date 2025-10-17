@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<topic id="t_connect_wifi">
+  <title>Connect to Wi-Fi</title>
+  <info>
+    <product>AcmeX</product>
+    <version>v3.2</version>
+    <language>en</language>
+  </info>
+
+  <section>
+    <title>Wi-Fi Setup</title>
+    <para
+    >To connect your device to a wireless network, open the Settings menu and select Wi-Fi.</para>
+    <para>Choose your home network and enter the password when prompted.</para>
+  </section>
+
+  <section>
+    <title>Troubleshooting Connection</title>
+    <para
+    >If you cannot connect, ensure your router is on and within range.</para>
+  </section>
+</topic>

@@ -1,9 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<topic id="t_reset_device" xmlns:db="http://docbook.org/ns/docbook">
-<title>Reset Device</title>
-<para>If your device is unresponsive, perform a factory reset.</para>
-<section>
-<title>Factory Reset Steps</title>
-<para>Hold the power button for 10 seconds, then select Reset.</para>
-</section>
+<?xml version="1.0" encoding="utf-8" ?>
+<topic id="t_reset_device">
+  <title>Reset Device</title>
+  <info>
+    <product>AcmeX</product>
+    <version>v3.2</version>
+    <language>en</language>
+  </info>
+
+  <section>
+    <title>Factory Reset</title>
+    <para
+    >To reset your AcmeX device to its factory settings, press and hold the power button for ten seconds until the LED flashes twice.</para>
+    <para
+    >Use this method only if the device is not responding to normal restart.</para>
+  </section>
+
+  <section>
+    <title>Soft Reset</title>
+    <para
+    >To perform a soft reset, hold the power and volume down buttons together for five seconds.</para>
+  </section>
 </topic>
